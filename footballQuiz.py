@@ -12,7 +12,7 @@ questions = {
     "How many European cups has aberdeen won" : {"choices" : ["4","2","1"],"answer": "2"},
     "Which of the following coaches has gone to manage 5 teams" : {"choices" : ["Alex ferguson","Pep Guardiola","Gareth Southgate"],"answer": "Alex ferguson"},
     "who is the youngest player in euro 2024" : {"choices" : ["mbappe","Nico Williams","Yamal"],"answer": "Yamal"},
-    "How many Scottish league titles has Aberdeen FC won?" : {"choices" : ["5","4 ","6"],"answer": "4"},
+    "How many Scottish league titles has Aberdeen FC won?" : {"choices" : ["5","4","6"],"answer": "4"},
     "When did Aberdeen fc start playing football" : {"choices" : ["1903","1826","1951"],"answer": "1903"},
 }
 
