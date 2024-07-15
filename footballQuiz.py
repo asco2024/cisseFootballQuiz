@@ -6,7 +6,7 @@ random.seed(time.time())
 questions = {
     "Who scored the first goal for AFC U10 in the Netherlands during the recent Rud Wit Tournement?" : {"choices" : ["Ivan","Cisse","Hudson","Jack","Jackson"],"answer": "Cisse"},
     "Which AFC U10 player got nominated for the best goal of the season 2023/24?" : {"choices" : ["Freddie","Nile","Jack","Carter"],"answer": "Jack"},
-    "Who was the captain for AFC U10 during the recent Rud Wit Tournament in the Netherlands" : {"choices" : ["Alex","Daniel","Hudson","Ray"],"answer": "Huddson"},
+    "Who was the captain for AFC U10 during the recent Rud Wit Tournament in the Netherlands" : {"choices" : ["Alex","Daniel","Hudson","Ray"],"answer": "Hudson"},
     "Which team won Euro 2024?" : {"choices" : ["England","Spain","France","Germany"],"answer": "Spain"},
     "Which position did AFC U10 finish durin the recent Rud Wit Tournament?" : {"choices" : ["5th","9th","11th","1st"],"answer": "11th"},
     "How many European cups has Aberdeen FC won?" : {"choices" : ["4","2","1"],"answer": "2"},
@@ -16,7 +16,7 @@ questions = {
     "When was Aberdeen FC formed?" : {"choices" : ["1903","1826","1951"],"answer": "1903"},
     "Which of the following are left-footed defenders for AFC U10?" : {"choices" : ["Daniel and Myles","Myles and Ivan","Ivan and Alex","Daniel and Alex"],"answer": "Ivan and Alex"},
     "Which of the following are right-footed defenders for AFC U10?" : {"choices" : ["Daniel and Myles","Myles and Ivan","Ivan and Alex","Daniel and Alex"],"answer": "Daniel and Myles"},
-    "Which of the following scored 5 goals in one game for AFC U10?" : {"choices" : ["Nile","Jack","Freddie","Carter","All"],"answer": "All"},
+    "Which of the following scored 5 goals in one game for AFC U10?" : {"choices" : ["Nile","Jack","","Freddie","Carter","All"],"answer": "All"},
     "Which of the following players mostly play in midfield for AFC U10?" : {"choices" : ["Daniel and Nile","Freddie and Jack","Hudson and Barclay","Alex and Russell"],"answer": "Hudson and Barclay"},
     "Which of the following is a fantastic goal stopper?" : {"choices" : ["Timmy","Harry","Reuben","None"],"answer": "Timmy"},    
     "Who is known as Big D in AFC U10?" : {"choices" : ["Cisse","Alex","Daniel","Ivan"],"answer": "Daniel"},   
