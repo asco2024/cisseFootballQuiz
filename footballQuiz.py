@@ -4,16 +4,26 @@ import time
 random.seed(time.time())
 
 questions = {
-    "Who scored the first goal for aberdeen in holland Rood Wit tournement?" : {"choices" : ["Carter","Cisse","Huddson"],"answer": "Cisse"},
-    "Who won the award for the best goal of the season?" : {"choices" : ["Freddie","Nile","Jack"],"answer": "Jack"},
-    "Who was the captain for the Rood Wit tournement" : {"choices" : ["Alex","Carter","Huddson"],"answer": "Huddson"},
-    "what team is going to win the euro 2024" : {"choices" : ["England","Spain"],"answer": "Spain"},
-    "What position did we finish when we played the Rood Wit tournement" : {"choices" : ["5th","9th","11th"],"answer": "11th"},
-    "How many European cups has aberdeen won" : {"choices" : ["4","2","1"],"answer": "2"},
-    "Which of the following coaches has gone to manage 5 teams" : {"choices" : ["Alex ferguson","Pep Guardiola","Gareth Southgate"],"answer": "Alex ferguson"},
-    "who is the youngest player in euro 2024" : {"choices" : ["mbappe","Nico Williams","Yamal"],"answer": "Yamal"},
+    "Who scored the first goal for AFC U10 in the Netherlands during the recent Rud Wit Tournement?" : {"choices" : ["Ivan","Cisse","Hudson","Jack","Jackson"],"answer": "Cisse"},
+    "Which AFC U10 player got nominated for the best goal of the season 2023/24?" : {"choices" : ["Freddie","Nile","Jack","Carter"],"answer": "Jack"},
+    "Who was the captain for AFC U10 during the recent Rud Wit Tournament in the Netherlands" : {"choices" : ["Alex","Daniel","Hudson","Ray"],"answer": "Huddson"},
+    "Which team won Euro 2024?" : {"choices" : ["England","Spain","France","Germany"],"answer": "Spain"},
+    "Which position did AFC U10 finish durin the recent Rud Wit Tournament?" : {"choices" : ["5th","9th","11th","1st"],"answer": "11th"},
+    "How many European cups has Aberdeen FC won?" : {"choices" : ["4","2","1"],"answer": "2"},
+    "Which of the following coaches has managed Aberdeen?" : {"choices" : ["Alex ferguson","Pep Guardiola","Gareth Southgate"],"answer": "Alex ferguson"},
+    "who is the youngest player in Euro 2024?" : {"choices" : ["Arda Guler","Mainoo","Nico Williams","Yamal"],"answer": "Yamal"},
     "How many Scottish league titles has Aberdeen FC won?" : {"choices" : ["5","4","6"],"answer": "4"},
-    "When did Aberdeen fc start playing football" : {"choices" : ["1903","1826","1951"],"answer": "1903"},
+    "When was Aberdeen FC formed?" : {"choices" : ["1903","1826","1951"],"answer": "1903"},
+    "Which of the following are left-footed defenders for AFC U10?" : {"choices" : ["Daniel and Myles","Myles and Ivan","Ivan and Alex","Daniel and Alex"],"answer": "Ivan and Alex"},
+    "Which of the following are right-footed defenders for AFC U10?" : {"choices" : ["Daniel and Myles","Myles and Ivan","Ivan and Alex","Daniel and Alex"],"answer": "Daniel and Myles"},
+    "Which of the following scored 5 goals in one game for AFC U10?" : {"choices" : ["Nile","Jack","","Freddie","Carter","All"],"answer": "All"},
+    "Which of the following players mostly play in midfield for AFC U10?" : {"choices" : ["Daniel and Nile","Freddie and Jack","Hudson and Barclay","Alex and Russell"],"answer": "Hudson and Barclay"},
+    "Which of the following is a fantastic goal stopper?" : {"choices" : ["Timmy","Harry","Reuben","None"],"answer": "Timmy"},    
+    "Who is known as Big D in AFC U10?" : {"choices" : ["Cisse","Alex","Daniel","Ivan"],"answer": "Daniel"},   
+    "Which of the following managed us during our AFC U9 days?" : {"choices" : ["Mark and Chris and Rob","Aaron and Jamie and Stuart","Aaron and Mark and Stuart","Jamie, Chris and Aaron"],"answer": "Mark and Chris and Rob"}, 
+    "Who once forgot to bring along his football boots to an AFC U10 game in Edingburgh against Hearts?" : {"choices" : ["Myles","Timmy","Ivan","Cisse"],"answer": "Cisse"},   
+    "Where did we place in the group stage at the Ruud Wit Tournament during the Group stage of the Champions League?" : {"choices" : ["5th","1st","3rd","11th"],"answer": "5th"},  
+    "Which of the following is the youngest in the squad?" : {"choices" : ["Alex","Jackson","Timmy","Russell"],"answer": "Russell"},        
 }
 
 def initialize_quiz():
