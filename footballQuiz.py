@@ -16,7 +16,7 @@ questions = {
     "When was Aberdeen FC formed?" : {"choices" : ["1903","1826","1951"],"answer": "1903"},
     "Which of the following are left-footed defenders for AFC U10?" : {"choices" : ["Daniel and Myles","Myles and Ivan","Ivan and Alex","Daniel and Alex"],"answer": "Ivan and Alex"},
     "Which of the following are right-footed defenders for AFC U10?" : {"choices" : ["Daniel and Myles","Myles and Ivan","Ivan and Alex","Daniel and Alex"],"answer": "Daniel and Myles"},
-    "Which of the following scored 5 goals in one game for AFC U10?" : {"choices" : ["Nile","Jack","","Freddie","Carter","All"],"answer": "All"},
+    "Which of the following scored 5 goals in one game for AFC U10?" : {"choices" : ["Nile","Jack","Freddie","Carter","All"],"answer": "All"},
     "Which of the following players mostly play in midfield for AFC U10?" : {"choices" : ["Daniel and Nile","Freddie and Jack","Hudson and Barclay","Alex and Russell"],"answer": "Hudson and Barclay"},
     "Which of the following is a fantastic goal stopper?" : {"choices" : ["Timmy","Harry","Reuben","None"],"answer": "Timmy"},    
     "Who is known as Big D in AFC U10?" : {"choices" : ["Cisse","Alex","Daniel","Ivan"],"answer": "Daniel"},   
